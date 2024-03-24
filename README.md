@@ -40,6 +40,6 @@ Este proyecto es una aplicación de ejemplo que utiliza Hibernate para interactu
     - `main/`: Paquete que contiene las clases de la aplicación.
         - `Prueba.java`: Clase principal que demuestra el uso de Hibernate.
 - `hibernate.cfg.xml`: Archivo de configuración de Hibernate.
-- `pom.xml`: Archivo de configuración de Maven (si se utiliza Maven).
+- `pom.xml`: Archivo de configuración de Maven (si se utiliza Maven)..
 
 
